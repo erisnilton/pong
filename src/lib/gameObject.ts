@@ -12,7 +12,7 @@ export abstract class GameObject {
   abstract render(context: CanvasRenderingContext2D): void;
 
   setup() {}
-  update(time: number) {}
+  update(_time: number) {}
   destroy() {}
 
   prepareCanvas(context: CanvasRenderingContext2D, fn: () => void) {
