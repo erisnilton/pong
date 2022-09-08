@@ -1,5 +1,5 @@
 # PONG
-
+![pong](src/asserts/img/pong.gif)
 ### Projeto
 
 Esse projeto partiu da idéia de criar um jogo simples para treinar programação orientada a objetos e aplicar os conceitos do S.O.L.I.D.
