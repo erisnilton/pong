@@ -14,4 +14,3 @@ O desafio consistiu um game de ping pong, usando a linguguem Typescript e boas p
 ## Links
 
 - demo: https://erisnilton.dev/pong/
-- github: https://github.com/erisnilton/pong
